@@ -3,7 +3,7 @@
 This is a work in progress!
 
 ## **What it is:** 
-Anime_track is an application that gets information on the upcoming and currently running japanese animations.
+Anime_track is an application that gets information on upcoming and currently running japanese animations.
 
 ## **Why it exists:**
 I am undertaking this project to gain experience building more complex code from scratch, to play around with python's tkinter,
