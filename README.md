@@ -1,4 +1,4 @@
-# Anime_track ## (This is a work in progress!)
+# Anime_track (This is a work in progress!)
 
 ## **What it is:** 
 Anime_track is an application that gets information on upcoming and currently running japanese animations.
